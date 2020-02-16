@@ -1,12 +1,12 @@
 [submodule "packages/increment/account"]
 	path = packages/increment/account
-	url = git@github.com:incrementtechnologies/account.git
+	url = https://github.com/incrementtechnologies/account.git
 [submodule "packages/increment/common"]
 	path = packages/increment/common
-	url = git@github.com:incrementtechnologies/common.git
+	url = https://github.com/incrementtechnologies/common.git
 [submodule "packages/increment/messenger"]
 	path = packages/increment/messenger
-	url = git@github.com:incrementtechnologies/messenger.git
+	url = https://github.com/incrementtechnologies/messenger.git
 [submodule "packages/increment/payment"]
 	path = packages/increment/payment
-	url = git@github.com:incrementtechnologies/payment.git
+	url = https://github.com/incrementtechnologies/payment.git
