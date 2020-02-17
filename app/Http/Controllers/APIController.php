@@ -461,4 +461,8 @@ class APIController extends Controller
     return $result;
   }
 
+  public function localization() {
+
+  }
+  
 }
